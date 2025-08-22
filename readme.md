@@ -221,3 +221,4 @@ Ryan H, Pravin B, Jimmie B, Nick C, Sam C, Mattias S, Michael H, Mark M, Madhan,
   [7]: https://github.com/QuantConnect/Lean/blob/master/CONTRIBUTING.md
   [8]: https://hub.docker.com/orgs/quantconnect/repositories
   [9]: https://www.nuget.org/profiles/jaredbroad
+# My Lean modification
